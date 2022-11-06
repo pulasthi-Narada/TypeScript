@@ -1,4 +1,4 @@
-let number: number | string;
+let number: number | string ;
 number = '12';
 number = 12;
 
